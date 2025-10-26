@@ -78,7 +78,9 @@ env\Scripts\activate
 ```
 ### 3. Install dependencies
 pip install -r requirements.txt
+
 python Bandit.py
+
 python Suggested_Implementation.py
 
 
