@@ -1,0 +1,23 @@
+# Ignore all .DS_Store files (macOS system files)
+.DS_Store
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific files in the HW3 folder (e.g., telco.csv might contain sensitive or large data)
+HW3/telco.csv
+
+# Ignore other files in the HW3 folder that should not be tracked (e.g., images, notebooks, etc.)
+HW3/.DS_Store
+HW3/.idea/
+HW3/*.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment folder (if you have one)
+venv/
+
