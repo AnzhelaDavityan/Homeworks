@@ -11,7 +11,7 @@ This project applies **Accelerated Failure Time (AFT) models** to predict custom
 ## Features
 - **Data Preprocessing**: Handling missing values, converting categorical columns to numerical codes, and one-hot encoding.
 - **Modeling**: The project compares several AFT models to predict customer churn.
-- **Model Comparison**: The models are evaluated using survival curves, **AIC**, and **Concordance Index**.
+- **Model Comparison**: The models are evaluated using survival curves.
 - **Customer Lifetime Value (CLV)**: CLV is calculated for each customer based on the survival functions predicted by the AFT models.
 
 ## How to Run
