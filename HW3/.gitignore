@@ -1,0 +1,15 @@
+# Ignore all .DS_Store files (macOS system files)
+.DS_Store
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment folder (if you have one)
+venv/
+
